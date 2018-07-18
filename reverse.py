@@ -1,5 +1,3 @@
-
- num=raw_input("enter the number")
-s={1,2,3,4,5}
-slice[::-1]
-print(s)
+rev=[1,2,3]
+rev[::-1]
+print(re)
