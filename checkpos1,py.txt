@@ -1,7 +1,0 @@
-n=int(input("check numnber of pos or ne"))
-if a>=0:
-    print("It is positive")
-elif a<=0:
-    printf("It is negative")
-else a==0:
-    print("It is zero")
